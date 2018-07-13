@@ -7,4 +7,6 @@ pantheon-site/pantheon
 pantheon-site/pantheon/*
 pantheon-site/pantheon/**/*
 
+docksal.env
+docksal.yml
 composer.lock
