@@ -7,6 +7,10 @@ pantheon-site/pantheon
 pantheon-site/pantheon/*
 pantheon-site/pantheon/**/*
 
+libs/custom-theme
+libs/custom-theme/*
+libs/custom-theme/**/*
+
 docksal.env
 docksal.yml
 composer.lock
